@@ -1,18 +1,20 @@
 # Infinite Loop
-###Man in the Machine
+### Man in the Machine
 
 <img align="center" src="Infinite Loop.png" width="100%"/>
 
 
 
-###Develop Tools
+### Develop Tools
 
 * Xcode version 7.2.1
 
 * openFrameworks 0.9.3
 
-###Platform
+### Platform
+
 * OS X El Capitan
 
-###Inspiration
+### Inspiration
+
 * 9:41 AM
